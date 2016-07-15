@@ -46,7 +46,7 @@ title: My Second Post
 <hr>
 > wuli可爱的民国
 
-![wuli可爱的民国](/image/民国斜眼.jpg)
+![wuli可爱的民国](/2016_summer_web_design/image/民国斜眼.jpg)
 
 
 
